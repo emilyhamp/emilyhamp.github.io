@@ -1,0 +1,38 @@
+---
+title: "Fall Semester Goals"
+author: "Emily Hamp"
+date: "2026-08-25"
+categories: [goals, daily-entries]
+description: "Fall 2026 Goals"
+image: ""
+---
+
+# Overview
+
+Fall 2026 goals
+
+## Goals
+
+- [ ] Survive the MCAT
+
+### Writing and Manuscripts 
+
+1. Something
+
+### Analysis and Benchwork
+
+1. Something
+
+### Funding
+
+1. Something
+
+### Other
+
+1. Set up digital notebook
+
+# Primary Skill Building
+
+- [ ] something
+- [ ] something
+- [ ] something
