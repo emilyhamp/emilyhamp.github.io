@@ -1,15 +1,15 @@
 ---
-title: "Emily Hamp"
+title: Emily Hamp
 page-layout: full
 ---
 
 ::: {.hero-grid}
 
 ::: {.hero-text}
-#### Some area of interest
+#### PROJECT-INTEREST
 
 :::
-<!-- 
+<!--
 ::: {.hero-image}
 ![](headshots/){alt="" class="headshot"}
 ![](headshots/){alt="" class="fieldshot"}
@@ -34,18 +34,17 @@ Here you'll find information about my research, outreach and education activitie
 ## Contact
 
 ##### Emily Hamp
- 
 
-##### Email:  
-[emhamp (at) wm.edu](mailto:emhamp@wm.edu)  
 
-##### Mailing Address:    
- 
+##### Email:
+[emhamp (at) wm.edu](mailto:wm-email-address)
+
+##### Mailing Address:
+
 
 ---
 
 ### Find me online
 
-- [GitHub](Your Github link)  
+- [GitHub](your-github)
 :::
-
